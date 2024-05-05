@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Jupyter Notebook Process Steps - Routine for extracting the major steps or workflow from any notebook.
 Routine for extracting the major steps or workflow from any notebook.
 
@@ -9,8 +11,6 @@ Welcome to the solution **Jupyter Notebook Process Steps** - an example for your
 Routine for extracting the major steps or workflow from any notebook.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
