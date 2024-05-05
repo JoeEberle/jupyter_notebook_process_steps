@@ -48,5 +48,5 @@ To get started with the **Jupyter Notebook Process Steps** solution repository, 
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](jupyter_notebook_process_steps.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](jupyter_notebook_process_steps.png)  <br>
     
